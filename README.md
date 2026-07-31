@@ -2,3 +2,4 @@
 This repository contains the following files:
 * Excel file with formulas to calculate data descriptors related to customer order information.
 * Excel file with formulas to calculate the covariance and correlation between two random samples.
+* Excel file applying the normal distribution to an airline and production problem.
