@@ -1,5 +1,6 @@
 # Business statistics and analysis
 This repository contains the following files:
+* Excel file with regression analysis on final exam scores.
 * Excel file that includes regression analysis of grocery store data.
 * Excel file conducting hypothesis testing using test scores.
 * Excel file conducting hypothesis testing on data from three airlines.
