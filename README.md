@@ -1,5 +1,7 @@
 # Business statistics and analysis
 This repository contains the following files:
+* Excel file with regression analysis of apartment prices and characteristics.
+* Excel file containing a regression analysis of the starting salaries of undergraduate students at a business school.
 * Excel file with regression analysis on sales data.
 * Excel file with regression analysis on final exam scores and student data.
 * Excel file that includes regression analysis of grocery store data.
