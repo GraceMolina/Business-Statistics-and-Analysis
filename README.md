@@ -1,5 +1,6 @@
 # Business statistics and analysis
 This repository contains the following files:
+* Excel file analyzing fair market rent data from 2005 to 2013.
 * Excel file with an analysis of housing market value from 2005 to 2007.
 * Excel file with regression analysis of apartment prices and characteristics.
 * Excel file containing a regression analysis of the starting salaries of undergraduate students at a business school.
